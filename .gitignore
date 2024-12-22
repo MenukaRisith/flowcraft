@@ -21,10 +21,11 @@ yarn-error.log*
 public/build/
 cache/
 .vscode/.*
-.env
 
 # Python dependencies
 backend/venv/
+backend/env/
+
 __pycache__/
 *.pyc
 *.pyo
@@ -39,3 +40,11 @@ Thumbs.db
 .idea/
 .vscode/
 *.iml
+
+# Environment variable files
+.env
+
+# Miscellaneous files
+*.log
+*.bak
+*.swp

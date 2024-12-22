@@ -1,0 +1,17 @@
+{
+    "session_id": "c4d03e9c-4e7e-460c-9eef-ae7aeb934711",
+    "idea": "Monitor Google Drive for new files and notify me. (menuka.contact@gmail.com)",
+    "questions": [
+        "* Which Google Drive account should be monitored?",
+        "* What constitutes a \"new file\"? (e.g., newly uploaded, newly created, modified files?)",
+        "* What type of notification is preferred? (e.g., email, desktop notification, SMS?)",
+        "* Should the notification include file details (name, size, location)?",
+        "* How frequently should the drive be checked for new files?",
+        "* Should specific folders or files be excluded from monitoring?",
+        "* What is the desired notification method's threshold? (e.g., notify for every new file or only after a certain number of files are added?)",
+        "* What should happen if the notification system fails?",
+        "* Is there a need for historical data of past notifications?",
+        "* What level of security and authentication is required?"
+    ],
+    "answers": []
+}

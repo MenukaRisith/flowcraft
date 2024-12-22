@@ -1,0 +1,19 @@
+{
+    "session_id": "663642c7-84ee-458e-9763-193ff300568e",
+    "idea": "Monitor Google Drive for new files and notify me. (menuka.contact@gmail.com)",
+    "questions": [
+        "* What file types should be monitored?",
+        "* Should it monitor all folders within Google Drive, or specific folders?  If specific, which ones?",
+        "* What constitutes \"new\"? (e.g., newly created, uploaded, modified)",
+        "* How should I be notified? (e.g., email, SMS, desktop notification)",
+        "* What level of detail should the notification include? (e.g., filename, file size, folder path, uploader)",
+        "* How frequently should the Google Drive be checked for new files?",
+        "* Should there be any size restrictions on the files triggering a notification?",
+        "* What should happen if there's an error in monitoring?",
+        "* Are there any specific users whose files should trigger a notification, or should it be all users?",
+        "*  Is there a preferred notification method if email is unavailable?"
+    ],
+    "answers": [
+        "every types"
+    ]
+}

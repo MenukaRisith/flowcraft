@@ -24,8 +24,6 @@ cache/
 
 # Python dependencies
 backend/venv/
-backend/env/
-
 __pycache__/
 *.pyc
 *.pyo
@@ -48,3 +46,11 @@ Thumbs.db
 *.log
 *.bak
 *.swp
+
+# Private files to ignore
+backend/credentials.json
+backend/token.pickle
+backend/.env
+
+# Ignore the entire virtual environment
+backend/env/
